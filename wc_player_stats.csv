@@ -1,0 +1,664 @@
+"player_id","player_name","club","nationality","Age","position","jersey_number","appearances","goals_scored","assists","dribbles_per_game","interceptions_per_game","tackles_per_game","challenges_won","save_percentage","clean_sheets"
+1,"Emiliano Martinez","Aston Villa","Argentina",30,"GK",23,7,0,0,0.0,0.0,0.0,0.65,0.47,0.43
+2,"Lionel Messi ","PSG","Argentina",35,"FW",10,7,7,3,3.78,0.0,0.65,6.39,0.0,0.0
+3,"Nicolas Otamendi","Benfica","Argentina",34,"DF",19,7,0,1,0.33,1.17,1.3,7.17,0.0,0.0
+4,"Rodrigo De Paul","Atletico Madrid","Argentina",28,"MF",7,7,0,0,0.6,1.05,1.79,4.64,0.0,0.0
+5,"Nahuel Molina","Atletico Madrid","Argentina",24,"DF",26,7,1,1,0.32,0.47,1.42,1.58,0.0,0.0
+6,"Alexis Mac Allister","Brighton","Argentina",24,"MF",20,6,1,1,0.97,0.49,1.46,5.85,0.0,0.0
+7,"Cristian Romero","Tottenham","Argentina",24,"DF",13,7,0,0,0.16,0.49,0.82,5.09,0.0,0.0
+8,"Enzo Fernandez","Benfica","Argentina",22,"MF",24,7,1,1,0.8,0.48,3.52,7.83,0.0,0.0
+9,"Julian Alvarez","Manchester City","Argentina",23,"FW",9,7,4,0,0.58,0.0,0.77,1.93,0.0,0.0
+10,"Marcos Acuna","Sevilla","Argentina",31,"DF",8,6,0,0,1.45,0.48,2.9,7.97,0.0,0.0
+11,"Angel Di Maria","Juventus","Argentina",34,"FW",11,5,1,1,6.83,0.31,0.93,7.14,0.0,0.0
+12,"Nicolas Tagliafico","Lyon","Argentina",30,"DF",3,6,0,0,0.48,2.17,1.69,5.07,0.0,0.0
+13,"Lisandro Martinez","Manchester United","Argentina",25,"DF",25,5,0,0,0.3,0.9,1.5,4.19,0.0,0.0
+14,"Lautaro Martinez","Inter","Argentina",25,"FW",22,6,0,0,1.89,0.38,0.0,6.81,0.0,0.0
+15,"Leandro Paredes","Juventus","Argentina",28,"MF",5,5,0,0,0.4,1.21,4.02,9.24,0.0,0.0
+16,"Alejandro Gomez","Sevilla","Argentina",21,"MF",17,2,0,0,0.83,0.83,1.65,8.26,0.0,0.0
+17,"Gonzalo Montiel","Sevilla","Argentina",26,"DF",4,4,0,0,0.77,0.77,2.31,5.39,0.0,0.0
+18,"Guido Rodriguez","Real Betis","Argentina",28,"MF",18,1,0,0,0.0,0.0,3.16,6.32,0.0,0.0
+19,"German Pezzella","Real Betis","Argentina",31,"DF",6,3,0,0,0.0,0.0,0.0,3.16,0.0,0.0
+20,"Exequiel Palacios","Bayer Leverkusen","Argentina",24,"MF",14,3,0,0,0.0,3.83,1.91,7.66,0.0,0.0
+21,"Paulo Dybala","Roma","Argentina",29,"FW",21,2,0,0,5.62,0.0,0.0,0.0,0.0,0.0
+22,"Thiago Almada","Inter","Argentina",21,"FW",16,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+23,"Angel Correa","Atletico Madrid","Argentina",27,"FW",15,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+24,"Juan Foyth","Villarreal","Argentina",25,"DF",2,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+25,"Aurelien Tchouamani","Real Madrid","France",23,"MF",8,7,1,0,0.72,2.02,1.59,4.91,0.0,0.0
+26,"Kylian Mbappe","PSG","France",24,"FW",10,7,8,2,7.24,0.0,0.0,5.12,0.0,0.0
+27,"Hugo Lloris","Tottenham","France",36,"GK",1,6,0,0,0.0,0.0,0.0,1.1,0.71,0.17
+28,"Antoine Griezmann","Atletico Madrid","France",31,"FW",7,7,0,3,1.51,1.34,2.34,6.19,0.0,0.0
+29,"Raphael Varane","Man Utd","France",29,"DF",4,6,0,0,0.17,1.04,0.17,1.9,0.0,0.0
+30,"Ousmane Dembele","Barcelona","France",25,"FW",11,7,0,2,3.9,0.62,2.47,5.75,0.0,0.0
+31,"Olivier Giroud","AC Milan","France",36,"FW",9,6,4,0,0.0,0.21,0.21,9.12,0.0,0.0
+32,"Theo Hernandez","AC Milan","France",28,"DF",22,6,1,2,0.35,0.71,2.83,8.68,0.0,0.0
+33,"Adrien Rabiot","Juventus","France",27,"MF",14,6,1,1,0.75,1.86,2.24,8.95,0.0,0.0
+34,"Jules Kounde","Barcelona","France",24,"DF",5,6,0,0,0.56,1.12,2.06,4.87,0.0,0.0
+35,"Dayot Upamecano","Bayern Munich","France",24,"DF",18,5,0,0,0.0,1.12,2.06,5.25,0.0,0.0
+36,"Ibrahima Konate","Liverpool","France",23,"DF",24,5,0,0,0.0,2.16,4.62,8.94,0.0,0.0
+37,"Youssouf Fofana","Monaco","France",24,"MF",19,6,0,0,0.8,1.21,3.21,5.22,0.0,0.0
+38,"Randal Kolo Muani","Eintracht Frankfurt","France",24,"FW",12,3,1,0,3.5,0.5,3.5,16.5,0.0,0.0
+39,"Kingsley Coman","Bayern Munich","France",26,"FW",20,6,0,0,4.91,1.64,1.64,8.73,0.0,0.0
+40,"Eduardo Camavinga","Real Madrid","France",20,"MF",25,2,0,0,1.94,1.94,9.06,17.48,0.0,0.0
+41,"Axel Disasi","PSG","France",24,"DF",3,3,0,0,2.0,2.0,4.0,14.0,0.0,0.0
+42,"Steve Mandanda","Rennes","France",37,"GK",16,1,0,0,0.0,0.0,0.0,0.0,0.67,0.0
+43,"Benjamin Pavard","Bayern Munich","France",26,"DF",2,1,0,0,0.0,1.01,0.0,0.0,0.0,0.0
+44,"Matteo Guendouzi","Marseille","France",23,"MF",6,1,0,0,0.0,0.0,1.14,4.56,0.0,0.0
+45,"Jordan Veretout","Marseille","France",23,"MF",15,1,0,0,0.0,0.0,2.86,2.86,0.0,0.0
+46,"Lucas Hernandez","Bayern Munich","France",26,"DF",21,1,0,0,0.0,0.0,6.92,6.92,0.0,0.0
+47,"Marcus Thuram","Borussia Monchengladbach","France",25,"FW",26,5,1,2,5.55,0.0,1.85,18.49,0.0,0.0
+48,"William Saliba","Arsenal","France",21,"DF",17,1,0,0,3.33,0.0,0.0,6.67,0.0,0.0
+49,"Josko Gvardiol","RB Leipzig","Croatia",21,"DF",20,7,1,0,0.13,1.57,1.3,3.0,0.0,0.0
+50,"Dominik Livakovic","Dinamo Zagreb","Croatia",28,"GK",1,7,0,0,0.0,0.0,0.0,0.26,0.78,0.28
+51,"Ivan Perisic","Tottenham","Croatia",34,"FW",4,7,1,3,1.61,0.94,0.8,6.03,0.0,0.0
+52,"Luka Modric","Real Madrid","Croatia",37,"MF",10,7,0,0,1.37,1.23,2.06,5.35,0.0,0.0
+53,"Mateo Kovacic","Chelsea","Croatia",28,"MF",8,7,0,0,2.39,0.56,3.38,7.31,0.0,0.0
+54,"Andrej Kramaric","Hoffenheim","Croatia",31,"FW",9,7,2,0,1.31,0.0,0.56,2.06,0.0,0.0
+55,"Josip Juranovic","Celtic","Croatia",27,"DF",22,6,0,1,0.3,0.3,1.8,3.15,0.0,0.0
+56,"Dejan Lovren","Zenit","Croatia",33,"DF",6,6,0,1,0.0,1.38,0.9,6.34,0.0,0.0
+57,"Marcelo Brozovic","Inter","Croatia",30,"MF",11,6,0,0,0.97,0.65,2.11,6.01,0.0,0.0
+58,"Borna Sosa","Stuttgart","Croatia",25,"DF",19,5,0,0,0.85,0.42,2.96,5.5,0.0,0.0
+59,"Marko Livaja","Hajduk Split","Croatia",29,"FW",14,6,1,1,0.75,0.37,0.37,4.48,0.0,0.0
+60,"Mario Pasalic","Atalanta","Croatia",28,"MF",15,7,0,0,1.35,1.01,2.36,7.08,0.0,0.0
+61,"Bruno Petkovic","Dinamo Zagreb","Croatia",25,"FW",16,6,1,0,1.17,0.0,2.35,14.48,0.0,0.0
+62,"Nikola Vlasic","Torino","Croatia",25,"MF",13,6,0,0,2.18,0.44,0.44,6.11,0.0,0.0
+63,"Mislav Orsic","Dinamo Zagreb","Croatia",30,"FW",18,6,1,2,1.71,0.0,1.71,2.28,0.0,0.0
+64,"Lovro Majer","Rennes","Croatia",25,"MF",7,7,1,0,1.43,0.71,2.14,4.29,0.0,0.0
+65,"Borna Barisic","Rangers","Croatia",30,"DF",3,1,0,0,0.0,0.0,0.75,11.25,0.0,0.0
+66,"Josip Stanisic","Bayern Munich","Croatia",22,"DF",2,1,0,0,0.0,1.0,3.0,7.0,0.0,0.0
+67,"Josip Sutalo","Dinamo Zagreb","Croatia",22,"DF",24,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+68,"Ante Budimir","Osasuna","Croatia",31,"FW",17,2,0,0,0.0,0.0,1.67,0.0,0.0,0.0
+69,"Kristijan Jakic","Eintracht Frankfurt","Croatia",25,"MF",26,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+70,"Sofyan Amrabat","Fiorentina","Morocco ",26,"MF",4,7,0,0,0.14,0.82,2.32,3.68,0.0,0.0
+71,"Hakim Ziyech","Chelsea","Morocco ",29,"FW",7,7,1,1,3.67,1.27,1.41,4.65,0.0,0.0
+72,"Achraf Hakimi","PSG","Morocco ",24,"DF",2,7,0,1,1.56,1.28,3.84,7.39,0.0,0.0
+73,"Youssef En-Nesyri","Sevilla","Morocco ",25,"FW",19,7,2,0,1.15,0.16,0.66,8.23,0.0,0.0
+74,"Sofiane Boufal","Angers","Morocco ",29,"FW",17,7,0,0,4.11,0.37,1.87,8.03,0.0,0.0
+75,"Yassine Bounou","Sevilla","Morocco ",31,"GK",1,6,0,0,0.0,0.0,0.0,0.64,0.58,0.5
+76,"Azzedine Ounahi","Angers","Morocco ",22,"MF",8,7,0,0,1.89,0.95,1.26,5.21,0.0,0.0
+77,"Roman Saiss","Besiktas","Morocco ",32,"DF",6,6,0,0,0.19,0.58,0.77,3.47,0.0,0.0
+78,"Noussair Mazraoui","Bayern Munich","Morocco ",25,"DF",3,5,0,0,0.98,0.24,3.42,4.4,0.0,0.0
+79,"Selim Amallah","Standard Liege","Morocco ",26,"MF",15,7,0,0,0.66,1.76,2.85,6.37,0.0,0.0
+80,"Nayef Aguerd","West Ham","Morocco ",26,"DF",5,4,0,0,0.0,0.76,1.02,3.56,0.0,0.0
+81,"Jawad El Yamiq","Valladolid","Morocco ",30,"DF",18,6,0,0,0.0,1.46,1.17,5.26,0.0,0.0
+82,"Yahia Attiyat Allah","Wydad AC","Morocco ",27,"DF",25,6,0,1,0.29,0.0,1.15,2.01,0.0,0.0
+83,"Achraf Dari","Brest","Morocco ",23,"DF",20,3,1,0,0.0,2.89,0.48,5.78,0.0,0.0
+84,"Abdelhamid Sabiri","Sampdoria","Morocco ",26,"MF",11,5,1,0,1.5,2.5,1.5,4.0,0.0,0.0
+85,"Munir Mohamedi","Al Wehda","Morocco ",33,"GK",12,1,0,0,0.0,0.0,0.0,0.0,1.0,1.0
+86,"Bilal El Khannous","Genk","Morocco ",18,"MF",23,1,0,0,0.0,0.0,0.0,1.61,0.0,0.0
+87,"Abde Ezzalzouli"," Osasuna","Morocco ",21,"FW",16,3,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+88,"Zakaria Aboukhlal","Toulouse","Morocco ",22,"FW",14,4,1,0,1.23,1.23,0.0,4.94,0.0,0.0
+89,"Abderrazak Hamdallah","Al-Ittihad","Morocco ",32,"FW",9,4,0,0,4.22,0.0,1.41,0.0,0.0,0.0
+90,"Walid Cheddira","Bari","Morocco ",25,"FW",21,2,0,0,1.43,0.0,1.43,7.15,0.0,0.0
+91,"Badr Benoun","Qatar SC","Morocco ",29,"DF",24,3,0,0,0.0,1.76,0.0,0.0,0.0,0.0
+92,"Ilias Chair","QPR","Morocco ",25,"FW",13,1,0,0,2.05,0.0,2.05,2.05,0.0,0.0
+93,"Anass Zaroury","Burnley","Morocco ",22,"FW",10,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+94,"Yahya Jabrane","Wydad AC","Morocco ",31,"MF",26,2,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+95,"Andries Noppert","Heerenveen","Netherlands ",28,"GK",23,5,0,0,0.0,0.0,0.0,0.0,0.82,0.4
+96,"Virgil van Dijk","Liverpool","Netherlands ",31,"DF",4,5,0,0,0.0,0.75,0.38,9.0,0.0,0.0
+97,"Nathan Ake","Manchester City","Netherlands ",27,"DF",5,5,0,0,0.0,1.5,1.12,6.0,0.0,0.0
+98,"Denzel Dumfries","Inter","Netherlands ",26,"DF",22,5,1,2,1.12,1.31,1.5,6.19,0.0,0.0
+99,"Frenkie de Jong","Barcelona","Netherlands ",25,"MF",21,5,1,1,1.13,1.13,2.65,7.18,0.0,0.0
+100,"Cody Gakpo","PSV","Netherlands ",23,"FW",8,5,3,0,1.78,0.59,1.59,5.35,0.0,0.0
+101,"Daley Blind","Ajax","Netherlands ",32,"DF",17,5,1,1,0.42,1.06,2.76,4.88,0.0,0.0
+102,"Jurrien Timber","Ajax","Netherlands ",21,"DF",2,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+103,"Memphis Depay","Barcelona","Netherlands ",28,"FW",10,2,1,0,3.88,0.0,1.55,6.21,0.0,0.0
+104,"Steven Bergwijn","Ajax","Netherlands ",25,"FW",7,4,0,0,0.84,0.0,0.42,2.09,0.0,0.0
+105,"Davy Klaassen","Ajax","Netherlands ",29,"MF",14,4,1,2,0.47,0.47,1.41,3.75,0.0,0.0
+106,"Maarten de Roon","Atalanta","Netherlands ",31,"MF",15,5,0,0,0.0,0.98,3.42,7.34,0.0,0.0
+107,"Teun Koopmeiners","Atalanta","Netherlands ",24,"MF",20,5,0,1,0.41,1.24,4.15,9.12,0.0,0.0
+108,"Steven Berghuis","Ajax","Netherlands ",31,"MF",11,4,0,1,1.82,0.0,0.91,2.27,0.0,0.0
+109,"Matthijs de Ligt","Bayern Munich","Netherlands ",23,"DF",3,2,0,0,0.0,0.0,0.0,9.0,0.0,0.0
+110,"Vincent Janssen","Antwerp","Netherlands ",28,"FW",18,2,0,0,0.0,0.0,2.09,6.28,0.0,0.0
+111,"Wout Weghorst","Besiktas","Netherlands ",30,"FW",19,4,2,0,0.0,0.0,0.0,4.43,0.0,0.0
+112,"Luuk de Jong","PSV","Netherlands ",32,"FW",9,1,0,0,0.0,0.0,3.21,14.46,0.0,0.0
+113,"Xavi Simons","PSV","Netherlands ",19,"MF",25,1,0,0,0.0,12.86,0.0,0.0,0.0,0.0
+114,"Noa Lang","Club Brugge","Netherlands ",23,"FW",12,1,0,0,0.0,12.86,0.0,0.0,0.0,0.0
+115,"Kenneth Taylor","Ajax","Netherlands ",20,"MF",24,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+116,"Jordan Pickford","Everton","England",28,"GK",1,5,0,0,0.0,0.0,0.0,0.0,0.64,0.6
+117,"John Stones","Manchester City","England",28,"DF",5,5,0,0,0.21,0.21,0.41,3.3,0.0,0.0
+118,"Harry Maguire","Manchester United","England",29,"DF",6,5,0,1,0.42,0.84,1.47,8.16,0.0,0.0
+119,"Luke Shaw","Manchester United","England",27,"DF",3,5,0,1,0.42,1.06,0.64,3.18,0.0,0.0
+120,"Declan Rice","West Ham United","England",24,"MF",4,5,0,0,0.43,2.37,1.29,3.02,0.0,0.0
+121,"Jude Bellingham","Borussia Dortmund","England",19,"MF",22,5,1,1,3.04,1.3,3.26,8.26,0.0,0.0
+122,"Harry Kane","Tottenham","England",29,"FW",9,5,2,3,1.57,0.0,0.45,6.94,0.0,0.0
+123,"Bukayo Saka","Arsenal","England",21,"FW",17,4,3,0,2.47,0.62,2.16,5.24,0.0,0.0
+124,"Jordan Henderson","Liverpool","England",32,"MF",8,4,1,0,0.0,0.33,1.32,3.96,0.0,0.0
+125,"Phil Foden","Manchester City","England",22,"MF",20,4,1,2,1.39,0.35,0.35,4.86,0.0,0.0
+126,"Kyle Walker","Manchester City","England",32,"DF",2,3,0,0,0.76,0.76,1.14,6.08,0.0,0.0
+127,"Kieran Trippier","Newcastle United","England",32,"DF",12,3,0,0,0.88,0.44,2.63,6.59,0.0,0.0
+128,"Mason Mount","Chelsea","England",24,"MF",19,4,0,0,1.45,0.0,0.97,6.29,0.0,0.0
+129,"Raheem Sterling","Chelsea","England",28,"FW",10,3,1,1,1.81,0.6,0.6,4.22,0.0,0.0
+130,"Marcus Rashford","Manchester United","England",25,"FW",11,5,3,0,5.26,0.66,0.66,4.6,0.0,0.0
+131,"Jack Grealish","Manchester City","England",27,"MF",7,5,1,0,5.49,3.29,3.29,17.56,0.0,0.0
+132,"Callum Wilson","Newcastle United","England",30,"FW",24,2,0,1,0.0,0.0,0.0,0.0,0.0,0.0
+133,"Kalvin Phillips","Manchester City","England",27,"MF",14,2,0,1,0.0,0.0,0.0,0.0,0.0,0.0
+134,"Eric Dier","Tottenham","England",29,"DF",15,2,0,0,0.0,0.0,2.65,7.94,0.0,0.0
+135,"Trent Alexander-Arnold","Liverpool","England",24,"DF",18,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+136,"Marquinhos","PSG","Brazil",28,"DF",4,5,0,0,0.21,0.42,1.06,3.39,0.0,0.0
+137,"Casemiro","Manchester United","Brazil",30,"MF",5,4,1,0,0.46,1.38,2.54,4.84,0.0,0.0
+138,"Thiago Silva","Chelsea","Brazil",38,"DF",3,4,0,1,0.0,1.15,0.69,4.15,0.0,0.0
+139,"Alisson","Liverpool","Brazil",30,"GK",1,4,0,0,0.0,0.0,0.0,0.0,0.71,0.5
+140,"Eder Militao","Real Madrid","Brazil",25,"DF",14,4,0,0,0.0,0.77,1.55,4.38,0.0,0.0
+141,"Richarlison","Tottenham","Brazil",25,"FW",9,4,3,0,1.1,0.28,0.55,4.41,0.0,0.0
+142,"Raphinha","Barcelona","Brazil",26,"FW",11,5,0,0,2.84,0.85,2.27,4.54,0.0,0.0
+143,"Lucas Paqueta","West Ham","Brazil",25,"MF",7,4,1,1,0.28,0.61,2.58,8.65,0.0,0.0
+144,"Vinicius Jr","Real Madrid","Brazil",22,"FW",20,4,1,2,3.89,0.0,1.2,4.49,0.0,0.0
+145,"Danilo","Juventus","Brazil",31,"DF",2,3,0,0,0.0,0.96,1.6,4.47,0.0,0.0
+146,"Neymar","PSG","Brazil",31,"FW",10,3,2,1,5.81,0.32,0.32,7.1,0.0,0.0
+147,"Alex Sandro","Juventus","Brazil",32,"DF",6,3,0,0,0.95,1.42,3.79,7.11,0.0,0.0
+148,"Fred","Manchester United","Brazil",29,"MF",8,4,0,0,0.64,0.0,1.28,3.83,0.0,0.0
+149,"Rodrygo","Real Madrid","Brazil",22,"FW",21,5,0,1,3.02,1.01,2.01,5.53,0.0,0.0
+150,"Antony","Manchester United","Brazil",22,"FW",19,4,0,0,6.84,0.53,1.58,6.85,0.0,0.0
+151,"Dani Alves","UNAM","Brazil",39,"DF",13,2,0,0,0.77,1.54,3.85,7.69,0.0,0.0
+152,"Gabriel Matinelli","Arsenal","Brazil",21,"FW",26,2,0,0,5.68,0.0,1.62,6.49,0.0,0.0
+153,"Bremer","Juventus","Brazil",25,"DF",24,2,0,0,0.0,0.83,0.83,9.17,0.0,0.0
+154,"Gabriel Jesus","Arsenal","Brazil",25,"FW",18,3,0,0,1.96,1.96,1.96,8.81,0.0,0.0
+155,"Ederson","Manchester City","Brazil",29,"GK",23,1,0,0,0.0,0.0,0.0,0.0,0.67,0.0
+156,"Fabinho","Liverpool","Brazil",29,"MF",15,1,0,0,0.0,1.0,3.0,5.0,0.0,0.0
+157,"Alex Telles","Sevilla","Brazil",30,"DF",16,1,0,0,0.0,0.0,3.1,6.21,0.0,0.0
+158,"Bruno Guimaraes","Newcastle United","Brazil",25,"MF",17,2,0,0,2.5,0.0,0.0,5.0,0.0,0.0
+159,"Pedro","Flamengo","Brazil",25,"FW",25,2,0,0,0.0,1.45,2.9,14.51,0.0,0.0
+160,"Everton Ribeiro","Flamengo","Brazil",33,"MF",22,1,0,0,2.5,0.0,2.5,2.5,0.0,0.0
+161,"Weverton","Palmeiras","Brazil",35,"GK",12,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+162,"Diogo Costa","Porto","Portugal",23,"GK",22,5,0,0,0.0,0.0,0.0,0.0,0.64,0.2
+163,"Ruben Dias","Manchester City","Portugal",25,"DF",4,4,0,0,0.0,0.75,0.75,3.75,0.0,0.0
+164,"Pepe","Porto","Portugal",39,"DF",3,4,1,0,0.25,1.5,1.25,7.25,0.0,0.0
+165,"Bruno Fernandes","Manchester United","Portugal",28,"MF",8,4,2,3,0.76,0.5,0.76,4.28,0.0,0.0
+166,"Bernardo Silva","Manchester City","Portugal",28,"MF",10,5,0,0,0.5,0.5,0.5,1.76,0.0,0.0
+167,"Joao Felix","Atletico Madrid","Portugal",23,"FW",11,4,1,2,2.16,1.08,0.54,5.13,0.0,0.0
+168,"Ruben Neves","Wolves","Portugal",25,"MF",18,5,0,0,0.0,0.66,0.33,2.32,0.0,0.0
+169,"Joao Cancelo","Manchester City","Portugal",28,"DF",20,4,0,0,2.62,0.58,2.04,10.19,0.0,0.0
+170,"Cristiano Ronaldo","Al-Nassr FC","Portugal",38,"FW",7,5,1,0,0.62,0.0,0.0,6.49,0.0,0.0
+171,"Raphael Guerreiro","Borussia Dortmund","Portugal",29,"DF",5,4,1,2,0.65,0.97,0.97,3.23,0.0,0.0
+172,"Diogo Dalot","Manchester United","Portugal",23,"DF",2,3,0,1,0.69,0.69,2.78,7.64,0.0,0.0
+173,"Otavio","Porto","Portugal",28,"MF",25,3,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+174,"William Carvalho","Real Betis","Portugal",30,"MF",14,4,0,0,0.0,0.0,2.51,6.69,0.0,0.0
+175,"Goncalo Ramos","Benfica","Portugal",21,"FW",26,4,3,1,1.18,0.0,0.59,7.11,0.0,0.0
+176,"Vitinha","PSG","Portugal",22,"MF",16,3,0,0,1.51,0.0,2.27,5.29,0.0,0.0
+177,"Ricardo Horta","SC Braga","Portugal",28,"FW",21,3,1,0,0.0,0.76,1.53,2.29,0.0,0.0
+178,"Danilo Pereira","PSG","Portugal",31,"DF",13,1,0,0,1.0,3.0,1.0,14.0,0.0,0.0
+179,"Antonio Silva","Benfica","Portugal",19,"DF",24,1,0,0,0.0,1.0,1.0,5.0,0.0,0.0
+180,"Joao Mario","Benfica","Portugal",30,"MF",17,2,0,0,1.08,0.0,2.17,2.17,0.0,0.0
+181,"Matheus Nunes","Wolves","Portugal",24,"MF",23,2,0,0,1.23,0.0,0.0,3.7,0.0,0.0
+182,"Nuno Mendes","PSG","Portugal",20,"DF",19,1,0,0,4.29,4.29,0.0,12.85,0.0,0.0
+183,"Rafael Leao","AC Milan","Portugal",23,"FW",15,5,2,0,6.51,1.08,0.0,7.59,0.0,0.0
+184,"Joao Palhinha","Fulham","Portugal",27,"MF",6,3,0,0,2.57,2.57,5.14,5.14,0.0,0.0
+185,"Andre Silva","RB Leipzig","Portugal",27,"FW",24,1,0,0,0.0,0.0,0.0,7.2,0.0,0.0
+186,"Shuichi Gonda","Shimizu S-Pulse","Japan",33,"GK",12,4,0,0,0.0,0.0,0.0,0.0,0.79,0.0
+187,"Maya Yoshida","Schalke","Japan",34,"DF",22,4,0,1,0.46,0.69,0.92,6.76,0.0,0.0
+188,"Daichi Kamada","Eintracht Frankfurt","Japan",26,"MF",15,4,0,0,1.11,0.0,1.94,4.72,0.0,0.0
+189,"Yuto Nagatomo","Tokyo","Japan",36,"DF",5,4,0,0,1.69,0.0,1.69,3.8,0.0,0.0
+190,"Junya Ito","Reims","Japan",29,"MF",14,4,0,1,1.95,1.11,1.95,5.58,0.0,0.0
+191,"Wataru Endo","Stuttgart","Japan",30,"MF",6,4,0,0,0.89,0.89,2.38,10.69,0.0,0.0
+192,"Hidemasa Morita","Sporting","Japan",27,"MF",13,3,0,0,1.26,0.63,0.0,3.46,0.0,0.0
+194,"Daizen Maeda","Celtic","Japan",25,"FW",25,3,1,0,0.0,1.48,1.48,3.9,0.0,0.0
+195,"Ritsu Doan","Freiburg","Japan",24,"MF",8,4,2,0,2.49,0.83,2.49,6.22,0.0,0.0
+196,"Shogo Taniguchi","Kawasaki Frontale","Japan",31,"DF",3,2,0,0,0.0,0.43,0.43,6.43,0.0,0.0
+197,"Ao Tanaka","Fortuna Dusseldorf","Japan",24,"MF",17,3,1,0,0.0,1.57,1.57,5.23,0.0,0.0
+199,"Takehiro Tomiyasu","Arsenal","Japan",24,"DF",16,3,0,0,0.0,0.0,0.0,5.84,0.0,0.0
+200,"Hiroki Sakai","Urawa Red Diamonds","Japan",32,"DF",19,2,0,0,1.5,0.75,3.75,9.0,0.0,0.0
+201,"Yuki Soma","Nagoya Grampus","Japan",25,"MF",24,1,0,0,2.2,0.0,2.2,6.59,0.0,0.0
+202,"Miki Yamane","Kawasaki Frontale","Japan",29,"DF",2,1,0,0,1.45,2.9,1.45,4.35,0.0,0.0
+203,"Ayase Ueda","Cercle Brugge","Japan",24,"FW",21,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+204,"Takuma Asano","Bochum","Japan",28,"FW",18,4,1,0,0.56,0.56,0.0,1.12,0.0,0.0
+205,"Kaoru Mitoma","Brighton","Japan",25,"MF",9,4,0,1,2.8,1.12,3.91,7.83,0.0,0.0
+206,"Takumi Minamino","Monaco","Japan",28,"MF",10,3,0,0,1.61,0.0,3.21,3.21,0.0,0.0
+207,"Hiroki Ito","Stuttgart","Japan",23,"DF",26,1,0,0,0.0,0.0,0.0,4.1,0.0,0.0
+208,"Kalidou Koulibaly","Chelsea","Senegal",31,"DF",3,4,1,0,0.0,0.75,3.0,9.25,0.0,0.0
+209,"Edouard Mendy","Chelsea","Senegal",30,"GK",16,4,0,0,0.0,0.0,0.0,0.0,0.5,0.0
+210,"Youssouf Sabaly","Real Betis","Senegal",29,"DF",21,4,0,0,1.25,1.0,1.5,7.5,0.0,0.0
+211,"Ismalia Sarr","Watford","Senegal",24,"FW",18,4,1,0,3.4,0.52,0.78,11.77,0.0,0.0
+212,"Abdou Diallo","RB Leipzig","Senegal",26,"DF",22,4,0,0,0.0,0.27,0.54,4.34,0.0,0.0
+213,"Boulaye Dia","Salernitana","Senegal",26,"FW",9,4,1,0,0.56,0.28,0.28,4.76,0.0,0.0
+214,"Ismail Jakobs","AS Monaco","Senegal",23,"DF",14,4,0,1,0.32,1.29,0.0,7.39,0.0,0.0
+215,"Nampalys Mendy","Leicester City","Senegal",30,"MF",6,4,0,0,0.33,0.99,1.31,2.3,0.0,0.0
+216,"Idrissa Gana Gueye","Everton","Senegal",33,"MF",5,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+217,"Krepin Diatta","AS Monaco","Senegal",23,"MF",15,3,0,0,1.96,0.0,0.0,3.43,0.0,0.0
+218,"Pathe Ciss","Rayo Vallecano","Senegal",28,"MF",11,3,0,0,1.23,1.23,1.85,8.63,0.0,0.0
+219,"Iliman Ndiaye","Sheffield United","Senegal",22,"FW",13,3,0,1,4.6,0.66,0.0,3.94,0.0,0.0
+220,"Papa Gueye","Marseille","Senegal",24,"MF",26,3,0,0,0.6,1.19,2.38,10.13,0.0,0.0
+221,"Papa Abou Cisse","Olympiacos","Senegal",27,"DF",4,2,0,0,0.88,1.76,0.0,4.41,0.0,0.0
+222,"Famara Diedhiou","Alanyaspor","Senegal",30,"FW",19,2,1,0,0.98,0.0,0.0,11.74,0.0,0.0
+223,"Cheikhou Kouyate","Nott'ham Forest","Senegal",33,"MF",0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+224,"Bamba Dieng","Marseille","Senegal",22,"FW",20,4,1,0,0.0,0.0,0.0,0.0,0.0,0.0
+225,"Pape Matar Sarr","Tottenham Hotspur","Senegal",20,"MF",17,0,0,0,1.61,0.0,4.82,8.65,0.0,0.0
+226,"Nicolas Jackson","Villarreal","Senegal",21,"FW",7,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+227,"Fode Ballo-Toure","AC Milan","Senegal",26,"DF",12,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+228,"Aziz Behic","Dundee United","Australia",32,"DF",16,4,0,0,3.0,0.75,2.0,5.5,0.0,0.0
+229,"Aaron Mooy","Celtic","Australia",32,"MF",13,4,0,0,0.75,0.5,2.25,4.0,0.0,0.0
+230,"Kye Rowles","Hearts","Australia",24,"DF",4,4,0,0,0.0,1.75,2.25,4.25,0.0,0.0
+231,"Mat Ryan","Copenhagen","Australia",30,"GK",1,4,0,0,0.0,0.0,0.0,0.0,0.67,0.5
+232,"Harry Souttar","Stoke City","Australia",24,"DF",19,4,0,0,0.0,1.5,1.0,7.25,0.0,0.0
+233,"Jackson Irvine","St Pauli","Australia",29,"MF",22,4,0,0,0.51,0.51,1.01,6.08,0.0,0.0
+234,"Mathew Leckie","Melbourne City","Australia",32,"FW",7,4,1,1,2.69,0.27,1.07,11.02,0.0,0.0
+235,"Mitchell Duke","Fagiano Okayama","Australia",32,"FW",15,4,1,0,0.66,0.66,0.0,8.58,0.0,0.0
+236,"Riley McGree","Middlesbrough","Australia",24,"MF",14,4,0,1,0.0,1.67,0.67,2.0,0.0,0.0
+237,"Craig Goodwin","Adelaide United","Australia",31,"FW",23,4,1,0,0.0,0.0,1.52,3.04,0.0,0.0
+238,"Milos Degenek","Columbus Crew","Australia",28,"DF",2,4,0,0,1.49,0.5,2.49,11.93,0.0,0.0
+239,"Keanu Baccus","St Mirren","Australia",24,"MF",26,4,0,0,0.0,1.61,0.8,4.82,0.0,0.0
+240,"Fran Karacic","Brescia","Australia",26,"DF",5,2,0,0,0.0,1.91,2.87,10.53,0.0,0.0
+241,"Nathaniel Atkinson","Hearts","Australia",23,"DF",3,1,0,0,2.12,1.06,4.24,4.24,0.0,0.0
+242,"Ajdin Hrustic","Hellas Verona","Australia",26,"MF",10,2,0,0,6.1,1.53,1.53,6.1,0.0,0.0
+243,"Jamie Maclaren","Melbourne City","Australia",29,"FW",9,3,0,0,0.0,1.7,0.0,3.4,0.0,0.0
+244,"Garang Kuol","Central Coast Mariners","Australia",18,"FW",21,2,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+245,"Jason Cummings","Central Coast Mariners","Australia",27,"FW",25,1,0,0,2.65,0.0,0.0,0.0,0.0,0.0
+246,"Awer Mabil","Cadiz","Australia",27,"FW",11,2,0,0,4.09,4.09,0.0,0.0,0.0,0.0
+247,"Bailey Wright","Sunderland","Australia",30,"DF",8,1,0,0,0.0,0.0,0.0,11.24,0.0,0.0
+248,"Manuel Akanji","Manchester City","Switzerland",27,"DF",5,4,1,0,0.0,0.75,1.25,6.0,0.0,0.0
+249,"Granit Xhaka","Arsenal","Switzerland",30,"MF",10,4,0,0,0.25,0.5,1.5,6.25,0.0,0.0
+250,"Ricardo Rodriguez","Torino","Switzerland",30,"DF",13,4,0,0,0.0,0.0,1.5,7.0,0.0,0.0
+251,"Breel Embolo","Monaco","Switzerland",25,"FW",7,4,2,0,1.38,0.0,0.28,4.68,0.0,0.0
+252,"Remo Freuler","Nottingham Forest","Switzerland",30,"MF",8,4,1,0,0.56,0.83,2.22,3.34,0.0,0.0
+253,"Ruben Vargas","Augsburg","Switzerland",24,"FW",17,4,0,1,1.56,0.31,0.0,3.13,0.0,0.0
+254,"Djibril Sow","Eintracht Frankfurt","Switzerland",26,"MF",15,4,0,1,0.33,0.33,0.66,3.65,0.0,0.0
+255,"Yann Sommer","Borussia Monchengladbach","Switzerland",34,"GK",1,3,0,0,0.0,0.0,0.0,0.0,0.63,0.33
+257,"Xherdan Shaqiri","Chicago Fire","Switzerland",31,"MF",23,3,1,1,0.78,0.0,0.0,3.12,0.0,0.0
+258,"Nico Elvedi","Borussia Monchengladbach","Switzerland",26,"DF",4,2,0,0,0.0,0.5,1.0,4.5,0.0,0.0
+259,"Fabian Schar","Newcastle United","Switzerland",31,"DF",22,2,0,0,0.0,1.32,1.32,7.94,0.0,0.0
+260,"Edimilson Fernandes","Mainz","Switzerland",26,"MF",2,3,0,0,1.26,1.26,1.26,2.52,0.0,0.0
+261,"Gregor Kobel","Borussia Dortmund","Switzerland",25,"GK",21,1,0,0,0.0,0.0,0.0,0.0,0.5,0.0
+262,"Fabian Rieder","Young Boys","Switzerland",20,"MF",25,2,0,0,1.34,0.0,4.03,8.06,0.0,0.0
+263,"Haris Seferovic","Galatasaray","Switzerland",30,"FW",9,3,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+264,"Denis Zakaria","Chelsea","Switzerland",26,"MF",6,2,0,0,1.58,4.74,0.0,6.32,0.0,0.0
+265,"Eray Comert","Valencia","Switzerland",25,"DF",18,2,0,0,0.0,4.09,0.0,2.05,0.0,0.0
+266,"Noah Okafor","Red Bull Salzburg","Switzerland",22,"FW",19,3,0,0,2.14,0.0,0.0,2.14,0.0,0.0
+267,"Renato Steffen","Lugano","Switzerland",31,"MF",11,1,0,0,2.81,0.0,0.0,2.81,0.0,0.0
+268,"Fabian Frei","Basel","Switzerland",34,"MF",20,2,0,0,0.0,4.09,4.09,4.09,0.0,0.0
+269,"Michel Aebischer","Bologna","Switzerland",26,"MF",14,1,0,0,0.0,0.0,6.43,0.0,0.0,0.0
+270,"Christian Fassnacht","Young Boys","Switzerland",29,"FW",16,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+271,"Ardon Jashari","Luzern","Switzerland",20,"MF",26,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+272,"Rodri","Manchester City","Spain",26,"MF",16,4,0,0,0.0,0.69,1.15,8.77,0.0,0.0
+273,"Unai Simon","Athletic Club","Spain",25,"GK",23,4,0,0,0.0,0.0,0.0,0.0,0.67,0.5
+274,"Dani Olmo","RB Leipzig","Spain",24,"FW",21,4,1,1,3.91,0.24,1.22,3.42,0.0,0.0
+275,"Sergio Busquets","Barcelona","Spain",34,"MF",5,4,0,0,0.25,0.25,1.73,6.68,0.0,0.0
+276,"Pedri","Barcelona","Spain",20,"MF",26,4,0,0,2.02,1.01,1.01,3.53,0.0,0.0
+277,"Gavi","Barcelona","Spain",18,"MF",9,4,1,0,0.94,0.31,2.51,8.78,0.0,0.0
+278,"Aymeric Laporte","Manchester City","Spain",28,"DF",24,3,0,0,0.0,0.6,0.6,4.2,0.0,0.0
+279,"Jordi Alba","FC Barcelona","Spain",33,"DF",18,4,0,2,1.02,1.02,2.37,4.74,0.0,0.0
+280,"Marco Asensio","Real Madrid","Spain",27,"FW",10,4,1,0,0.78,0.0,0.39,1.56,0.0,0.0
+281,"Ferran Torres","Barcelona","Spain",22,"FW",11,4,2,0,4.52,0.0,0.0,2.88,0.0,0.0
+282,"Cesar Azpilicueta","Chelsea","Spain",33,"DF",2,2,0,1,0.0,0.66,0.66,3.31,0.0,0.0
+283,"Alvaro Morata","Atletico Madrid","Spain",30,"FW",7,4,3,1,1.48,0.0,0.49,2.95,0.0,0.0
+284,"Nico Williams","Athletic Club","Spain",20,"FW",12,4,0,0,8.07,0.0,2.48,6.83,0.0,0.0
+285,"Dani Carvajal","Real Madrid","Spain",31,"DF",20,2,0,0,0.0,1.34,0.67,1.34,0.0,0.0
+286,"Alejandro Balde","Barcelona","Spain",19,"DF",14,4,0,0,0.0,0.0,4.35,5.08,0.0,0.0
+287,"Marcos Llorente","Atletico Madrid","Spain",28,"MF",6,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+288,"Pau Torrres","Villarreal","Spain",26,"DF",4,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0
+289,"Carlos Soler","PSG","Spain",26,"MF",19,2,1,0,1.0,0.0,0.0,2.0,0.0,0.0
+290,"Koke","Atletico Madrid","Spain",31,"MF",8,2,0,0,0.0,0.0,1.8,1.8,0.0,0.0
+291,"Ansu Fati","Barcelona","Spain",20,"FW",25,2,0,0,4.09,0.0,2.05,6.14,0.0,0.0
+292,"Pablo Sarabia","PSG","Spain",30,"FW",22,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+293,"Tyler Adams","Leeds United","USA",23,"MF",4,4,0,0,0.25,1.0,2.25,6.25,0.0,0.0
+294,"Tim Ream","Fulham","USA",35,"DF",13,4,0,0,0.25,1.0,1.0,4.75,0.0,0.0
+295,"Matt Turner","Arsenal","USA",28,"GK",1,4,0,0,0.0,0.0,0.0,0.0,0.53,0.5
+296,"Antonee Robinson","Fulham","USA",25,"DF",5,4,0,0,1.25,1.75,1.5,5.5,0.0,0.0
+297,"Yunus Musah","Valencia","USA",20,"MF",6,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+298,"Tim Weah","Lille","USA",22,"FW",21,4,1,0,0.56,0.0,0.28,2.25,0.0,0.0
+299,"Christian Pulisic","Chelsea","USA",24,"FW",10,4,1,2,1.99,0.0,0.57,5.7,0.0,0.0
+300,"Sergihno Dest","AC Milan","USA",22,"DF",2,4,0,1,2.33,0.58,0.87,2.91,0.0,0.0
+301,"Weston McKennie","Juventus","USA",24,"MF",8,4,0,0,0.65,0.0,0.65,3.6,0.0,0.0
+302,"Walker Zimmerman","Nashville SC","USA",29,"DF",3,4,0,0,0.0,1.29,0.97,6.15,0.0,0.0
+304,"Haji Wright","Antalyaspor","USA",24,"FW",19,4,1,0,0.67,0.0,1.33,10.0,0.0,0.0
+305,"Cameron Carter-Vickers","Celtic","USA",25,"DF",20,1,0,0,0.0,0.0,0.0,9.0,0.0,0.0
+306,"Jesus Ferreira","Tulsa Roughnecks","USA",22,"FW",9,1,0,0,1.96,0.0,1.96,5.87,0.0,0.0
+307,"Brenden Aaronson","Leeds United","USA",22,"MF",11,4,0,0,6.06,0.87,2.6,6.92,0.0,0.0
+308,"Gio Reyna","Borussia Dortmund","USA",20,"FW",7,2,0,0,0.0,0.0,0.0,10.59,0.0,0.0
+309,"Kellyn Acosta","Los Angeles FC","USA",27,"MF",23,2,0,0,0.0,0.0,6.59,10.98,0.0,0.0
+310,"DeAndre Yedlin","Inter Miami","USA",29,"DF",22,2,0,0,0.0,0.0,5.81,11.61,0.0,0.0
+311,"Shaq Moore","Nashville SC","USA",26,"DF",18,2,0,0,0.0,0.0,9.0,18.0,0.0,0.0
+312,"Jordan Morris","Swansea City","USA",28,"FW",16,2,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+313,"Matty Cash","Aston Villa","Poland ",25,"DF",2,4,0,0,0.5,0.0,1.0,2.5,0.0,0.0
+314,"Kamil Glik","Benevento","Poland ",35,"DF",15,4,0,0,0.0,0.75,0.5,2.5,0.0,0.0
+315,"Robert Lewandowski","Barcelona","Poland ",34,"FW",9,4,2,1,2.75,0.5,0.75,12.5,0.0,0.0
+316,"Wojciech Szczesny","Juventus","Poland ",32,"GK",1,4,0,0,0.0,0.0,0.0,0.0,0.82,0.5
+317,"Jakub Kiwior","Spezia","Poland ",22,"DF",14,4,0,0,0.0,0.76,0.5,2.02,0.0,0.0
+318,"Bartosz Bereszynski","Sampdoria","Poland ",30,"DF",18,4,0,0,1.84,0.79,1.58,5.0,0.0,0.0
+319,"Grzegorz Krychowiak","Al-Shabab","Poland ",33,"MF",10,4,0,0,0.54,1.35,2.43,6.74,0.0,0.0
+320,"Piotr Zielinski","Napoli","Poland ",28,"MF",20,4,1,0,0.82,0.27,1.91,2.73,0.0,0.0
+321,"Przemyslaw Frankowski","Lens","Poland ",27,"MF",24,4,0,0,0.74,1.12,2.6,5.95,0.0,0.0
+322,"Jakub Kaminski","Wolfsburg","Poland ",20,"MF",13,4,0,0,1.55,0.0,2.33,3.88,0.0,0.0
+323,"Krystian Bielik","Birmingham City","Poland ",25,"MF",6,4,0,0,1.26,1.67,1.26,9.21,0.0,0.0
+324,"Sebastian Szymanski","Feyenoord","Poland ",23,"MF",19,2,0,0,1.33,1.33,4.0,8.0,0.0,0.0
+325,"Arkadiusz Milik","Juventus","Poland ",28,"FW",7,3,0,0,0.0,0.0,0.0,9.0,0.0,0.0
+326,"Nicola Zalewski","Roma","Poland ",21,"DF",21,2,0,0,2.77,0.0,5.54,8.31,0.0,0.0
+327,"Karol Swiderski","Charlotte FC","Poland ",26,"FW",16,1,0,0,0.0,3.91,7.83,0.0,0.0,0.0
+328,"Michal Skoras","Lech Poznan","Poland ",22,"MF",26,1,0,0,0.0,2.05,0.0,8.19,0.0,0.0
+329,"Damian Szymanski","AEK Athens","Poland ",27,"MF",8,1,0,0,0.0,3.21,0.0,0.0,0.0,0.0
+330,"Krzysztof Piatek","Salernitana","Poland ",27,"FW",23,2,0,0,0.0,0.0,0.0,17.3,0.0,0.0
+331,"Artur Jedrzejczyk","Legia Warsaw","Poland ",35,"DF",3,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+332,"Jan Bednarek","Aston Villa","Poland ",26,"DF",5,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+333,"Kamil Grosicki","Pogon Szczecin","Poland ",34,"MF",11,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+334,"Son Heung-min","Tottenham Hotspur","South Korea",30,"FW",7,4,0,1,3.25,0.5,1.25,3.5,0.0,0.0
+335,"Kim Moon-hwan","Jeonbuk Hyundai Motors","South Korea",27,"DF",15,4,0,0,1.0,1.0,2.25,5.75,0.0,0.0
+336,"Kim Seung-gyu","Al Shabab","South Korea",32,"GK",1,4,0,0,0.0,0.0,0.0,0.0,0.58,0.25
+337,"Kim Young-gwon","Ulsan Hyundai","South Korea",32,"DF",19,4,1,0,0.0,0.77,0.77,4.36,0.0,0.0
+338,"Hwang In-beom","Olympiacos","South Korea",26,"MF",6,4,0,0,1.07,0.81,1.07,2.96,0.0,0.0
+339,"Kim Jin-su","Jeonbuk Hyundai Motors","South Korea",30,"DF",3,4,0,1,0.57,0.85,2.85,10.26,0.0,0.0
+340,"Jung Woo-young","Al Sadd","South Korea",33,"MF",5,4,0,0,0.0,0.59,1.48,5.04,0.0,0.0
+341,"Cho Gue-sung","Jeonbuk Hyundai Motors","South Korea",25,"FW",9,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+342,"Kim Min-jae","Napoli","South Korea",26,"DF",4,3,0,0,0.33,0.67,0.67,7.66,0.0,0.0
+343,"Lee Jae-sung","Mainz","South Korea",30,"MF",10,3,0,0,1.26,1.26,2.1,5.89,0.0,0.0
+344,"Lee Kang-in","Mallorca","South Korea",21,"MF",18,4,0,1,0.62,0.0,2.47,5.55,0.0,0.0
+345,"Na Sang-ho","FC Seoul","South Korea",26,"MF",17,2,0,0,3.05,0.0,3.05,7.63,0.0,0.0
+346,"Hwang Hee-chan","Wolverhampton Wanderers","South Korea",27,"FW",11,2,1,0,7.11,0.0,0.79,5.53,0.0,0.0
+347,"Hwang Ui-jo","Olympiacos","South Korea",30,"FW",16,4,0,0,0.86,0.0,0.0,2.57,0.0,0.0
+348,"Kwon Kyung-won","Gamba Osaka","South Korea",31,"DF",20,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+349,"Kwon Chang-hoon","Gimcheon Sangmu","South Korea",28,"MF",22,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+350,"Jeong Woo-yeong","Freiburg","South Korea",23,"FW",25,1,0,0,1.96,0.0,0.0,0.0,0.0,0.0
+351,"Son Jun-ho","Shandong Taishan","South Korea",30,"MF",13,3,0,0,0.0,3.91,3.91,3.91,0.0,0.0
+352,"Hong Chul","Daegu FC","South Korea",32,"DF",14,1,0,0,2.05,2.05,0.0,4.05,0.0,0.0
+353,"Paik Seung-ho","Jeonbuk Hyundai Motors","South Korea",25,"MF",8,1,1,0,0.0,0.0,10.8,0.0,0.0,0.0
+354,"Cho Yu-min","Daejon Citizen","South Korea",26,"DF",24,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+355,"Joshua Kimmich","Bayern Munich","Germany",28,"MF",6,3,0,0,1.67,1.33,1.67,4.67,0.0,0.0
+356,"Manuel Neuer","Bayern Munich","Germany",36,"GK",1,3,0,0,0.0,0.0,0.0,0.0,0.62,0.0
+357,"Antonio Rudiger","Real Madrid","Germany",29,"DF",2,3,0,0,0.0,0.0,0.67,5.67,0.0,0.0
+358,"Niklas Sule","Borussia Dortmund","Germany",27,"DF",15,3,0,0,0.0,0.0,1.67,6.33,0.0,0.0
+359,"Serge Gnabry","Bayern Munich","Germany",27,"FW",10,3,1,1,1.7,0.68,1.7,3.4,0.0,0.0
+360,"Jamal Musiala","Bayern Munich","Germany",19,"MF",14,3,0,1,10.08,0.35,0.35,9.04,0.0,0.0
+361,"David Raum","RB Leipzig","Germany",24,"DF",3,3,0,1,1.11,2.58,1.84,7.37,0.0,0.0
+362,"Thomas Muller","Bayern Munich","Germany",33,"FW",13,3,0,0,0.0,0.44,0.89,2.21,0.0,0.0
+363,"Ilkay Gundogan","Manchester City","Germany",32,"MF",21,3,1,0,0.94,0.47,1.41,6.1,0.0,0.0
+364,"Leon Goretzka","Bayern Munich","Germany",28,"MF",8,3,0,0,0.0,0.57,2.83,7.93,0.0,0.0
+365,"Leroy Sane","Bayern Munich","Germany",27,"FW",19,2,0,1,4.09,0.0,0.82,3.87,0.0,0.0
+366,"Kai Havertz","Chelsea","Germany",23,"MF",7,2,2,0,0.0,0.87,0.87,0.87,0.0,0.0
+367,"Nico Schlotterbeck","Borussia Dortmund","Germany",23,"DF",23,2,0,0,1.94,0.97,3.87,8.71,0.0,0.0
+368,"Thilo Kehrer","West Ham","Germany",26,"DF",5,1,0,0,0.0,2.57,7.71,7.71,0.0,0.0
+369,"Niclas Fullkrug","Werder Bremen","Germany",30,"FW",9,3,2,1,0.33,0.0,0.0,13.63,0.0,0.0
+370,"Lukas Klostermann","RB Leipzig","Germany",26,"DF",16,2,0,0,0.0,0.0,4.22,4.22,0.0,0.0
+371,"Mario Gotze","Eintracht Frankfurt","Germany",30,"MF",11,2,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+372,"Jonas Hofmann","Borussia Monchengladbach","Germany",30,"MF",18,2,0,0,3.21,0.0,0.0,0.0,0.0,0.0
+373,"Matthias Ginter","Freiburg","Germany",29,"DF",4,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+374,"Youssoufa Moukoko","Borussia Dortmund","Germany",18,"FW",26,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+375,"Pervis Estupinan","Brighton","Ecuador ",25,"DF",7,3,0,0,2.33,1.0,2.33,6.0,0.0,0.0
+376,"Hernan Galindez","Aucas","Ecuador ",35,"GK",1,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+377,"Piero Hincapie","Bayer Leverkusen","Ecuador ",21,"DF",3,3,0,0,0.0,0.67,2.33,6.0,0.0,0.0
+378,"Felix Torres","Santos Laguna","Ecuador ",26,"DF",2,3,0,1,0.33,1.33,0.67,6.67,0.0,0.0
+379,"Moises Caicedo","Brighton","Ecuador ",21,"MF",23,3,1,0,0.0,0.67,2.0,4.33,0.0,0.0
+380,"Gonzalo Plata","Real Valladolid","Ecuador ",22,"MF",19,3,0,0,4.0,0.67,1.0,7.67,0.0,0.0
+381,"Angelo Preciado","Genk","Ecuador ",24,"DF",17,3,0,1,0.34,1.7,2.38,5.1,0.0,0.0
+382,"Enner Valencia","Fenerbahce","Ecuador ",33,"FW",13,3,3,0,2.1,0.35,0.7,5.25,0.0,0.0
+383,"Michael Estrada","Cruz Azul","Ecuador ",26,"FW",11,3,0,0,0.79,0.0,0.39,0.0,0.0,0.0
+384,"Jhegson Mendez","Los Angeles FC","Ecuador ",25,"MF",20,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+385,"Jackson Porozo","Troyes","Ecuador ",22,"DF",25,2,0,0,0.0,2.84,1.89,5.69,0.0,0.0
+386,"Romario Ibarra","Pachuca","Ecuador ",28,"FW",10,2,0,0,0.5,1.32,0.0,1.32,0.0,0.0
+387,"Alan Franco","Talleres","Ecuador ",24,"MF",21,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+388,"Carlos Gruezo","FC Augsburg","Ecuador ",27,"MF",8,1,0,0,0.0,0.0,3.91,3.91,0.0,0.0
+389,"Jeremy Sarmiento","Brighton","Ecuador ",20,"MF",16,3,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+390,"Jose Cifuentes","Los Angeles FC","Ecuador ",23,"MF",5,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+391,"Djorkaeff Reasco","Newell's Old Boys","Ecuador ",24,"FW",24,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+393,"Collins Fai","Al-Tai","Cameroon",30,"DF",19,3,0,0,0.33,1.33,1.0,3.1,0.0,0.0
+394,"Nouhou Tolo","Seattle Sounders","Cameroon",25,"DF",25,3,0,0,1.67,2.0,3.0,6.33,0.0,0.0
+395,"Andre-Frank Zambo Anguissa","Napoli","Cameroon",27,"MF",8,3,0,0,1.38,1.72,1.38,6.55,0.0,0.0
+396,"Eric Maxim Choupo-Moting","Bayern Munich","Cameroon",33,"FW",13,3,1,0,2.48,0.35,1.42,10.63,0.0,0.0
+397,"Bryan Mbeumo","Brentford","Cameroon",27,"FW",20,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+398,"Jean Charles Castelletto","Nantes","Cameroon",28,"DF",21,2,1,1,0.0,3.0,1.5,6.0,0.0,0.0
+399,"Davis Epassy","Abha","Cameroon",30,"GK",16,2,0,0,0.0,0.0,0.0,0.0,0.75,0.5
+401,"Karl Toko Ekambi","Lyon","Cameroon",30,"FW",12,3,0,0,2.16,0.54,0.54,3.77,0.0,0.0
+402,"Pierre Kunde","Olympiacos","Cameroon",27,"MF",15,2,0,0,0.0,2.67,2.67,4.67,0.0,0.0
+404,"Vincent Aboubakar","Al-Nassr","Cameroon",31,"FW",10,3,2,1,3.83,0.0,0.0,6.39,0.0,0.0
+405,"Samuel Gouet","Mechelen","Cameroon",25,"MF",14,2,0,0,0.0,0.0,0.91,3.64,0.0,0.0
+406,"Moumi Ngamaleu","Dynamo Moscow","Cameroon",28,"FW",6,2,0,0,2.84,0.0,2.84,9.47,0.0,0.0
+407,"Enzo Ebosse","Udinese","Cameroon",23,"DF",24,1,0,0,0.0,0.0,4.0,0.0,0.0,0.0
+408,"Christopher Wooh","Rennes","Cameroon",21,"DF",4,1,0,0,0.0,1.0,2.0,2.0,0.0,0.0
+409,"Andre Onana","Inter","Cameroon",26,"GK",23,1,0,0,0.0,0.0,0.0,0.0,0.67,0.0
+410,"Gael Ondoua","Hannover","Cameroon",27,"MF",5,2,0,0,0.0,4.0,4.0,10.0,0.0,0.0
+411,"Georges-Kevin Nkoudou","Besiktas","Cameroon",27,"FW",7,2,0,0,1.0,0.0,0.0,3.6,0.0,0.0
+412,"Olivier Ntcham","Swansea City","Cameroon",27,"MF",22,1,0,0,1.0,0.0,0.0,4.09,0.0,0.0
+413,"Christian Bassogog","Shanghai Shenhua","Cameroon",27,"FW",11,1,0,0,4.0,3.91,0.0,0.0,0.0,0.0
+414,"Jerome Ngom","San Diego Loyal SC","Cameroon",24,"MF",2,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+415,"Jose Maria Gimenez","Atletico Madrid","Uruguay",28,"DF",2,3,0,0,0.0,2.33,1.33,7.0,0.0,0.0
+416,"Sergio Rochet","Nacional","Uruguay",29,"GK",23,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+417,"Federico Valverde","Real Madrid","Uruguay",24,"MF",15,3,0,0,1.0,1.67,1.67,3.33,0.0,0.0
+418,"Mathias Olivera","Napoli","Uruguay",25,"DF",16,3,0,0,0.71,0.71,3.18,8.47,0.0,0.0
+419,"Darwin Nunez","Liverpool","Uruguay",23,"FW",11,3,0,0,0.74,0.0,1.12,5.95,0.0,0.0
+420,"Rodrigo Bentancur","Tottenham Hotspur","Uruguay",25,"MF",6,3,0,0,2.1,2.94,3.79,11.35,0.0,0.0
+421,"Matias Vecino","Lazio","Uruguay",31,"MF",5,3,0,0,0.0,1.37,1.83,4.57,0.0,0.0
+422,"Guillermo Varela","Flamengo","Uruguay",29,"DF",13,3,0,0,0.99,1.48,1.98,6.92,0.0,0.0
+423,"Facundo Pellistri","Manchester United","Uruguay",21,"FW",8,3,0,0,2.97,0.0,0.99,1.98,0.0,0.0
+424,"Sebastian Coates","Sporting CP","Uruguay",32,"DF",19,2,0,0,0.0,0.5,0.5,7.5,0.0,0.0
+425,"Diego Godin","Velez Sarsfield","Uruguay",36,"DF",3,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+426,"Luis Suarez","Nacional","Uruguay",36,"FW",9,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+427,"Edinson Cavani","Valencia","Uruguay",35,"FW",21,3,0,0,0.0,0.0,0.0,1.48,0.0,0.0
+428,"Giorgian de Arrascaeta","Flamengo","Uruguay",28,"MF",10,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+429,"Martin Caceres","La Galaxy","Uruguay",35,"DF",22,1,0,0,1.0,0.0,0.0,3.0,0.0,0.0
+430,"Nicolas de la Cruz","River Plate","Uruguay",25,"MF",7,2,0,0,0.5,0.0,0.0,5.14,0.0,0.0
+431,"Maxi Gomez","Trabzonspor","Uruguay",26,"FW",18,2,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+432,"Matias Vina","Roma","Uruguay",25,"DF",17,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+433,"Agustin Canobbio","Athletico Paranaense","Uruguay",24,"FW",24,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+434,"Aymen Dahmen","CS Sfaxien","Tunisia",26,"GK",16,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+435,"Yassine Meriah","Esperalace","Tunisia",29,"DF",4,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+436,"Ellyes Skhiri","FC Koln","Tunisia",27,"MF",17,3,0,0,0.67,2.33,3.33,5.0,0.0,0.0
+437,"Montassar Talbi","Lorient","Tunisia",24,"DF",3,3,0,0,0.0,0.33,1.0,7.0,0.0,0.0
+438,"Aissa Laidouni","Ferencvaros","Tunisia",26,"MF",14,3,0,1,1.1,1.1,1.1,1.47,0.0,0.0
+439,"Ali Abdi","Caen","Tunisia",29,"DF",24,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+440,"Issam Jebali","OB","Tunisia",31,"FW",9,3,0,0,0.98,0.0,1.48,4.91,0.0,0.0
+441,"Youssef Msakni","Al-Duhail","Tunisia",32,"FW",7,2,0,0,2.65,0.0,1.59,9.0,0.0,0.0
+442,"Dylan Bronn","Salernitana","Tunisia",27,"DF",6,2,0,0,0.0,0.0,1.66,4.41,0.0,0.0
+443,"Anis Ben Slimane","Brondby","Tunisia",21,"FW",25,2,0,0,0.6,0.6,1.8,9.0,0.0,0.0
+444,"Mohamed Drager","Luzern","Tunisia",26,"DF",20,2,0,0,1.34,0.67,3.36,7.38,0.0,0.0
+445,"Naim Sliti","Al-Ettifaq","Tunisia",30,"FW",26,2,0,0,4.78,0.0,2.39,0.0,0.0,0.0
+446,"Wajdi Kechrida","Atromitos","Tunisia",27,"DF",21,3,0,0,3.3,0.0,2.48,4.96,0.0,0.0
+447,"Nader Ghandri","Club Africain","Tunisia",27,"DF",5,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+448,"Ali Maaloul","Al Ahly","Tunisia",33,"DF",12,1,0,0,0.0,0.0,1.0,1.0,0.0,0.0
+449,"Wahbi Khazri","Montpellier","Tunisia",32,"FW",10,2,1,0,1.0,0.0,2.17,4.34,0.0,0.0
+450,"Mohamed Ali Ben Romdhane","Esperance de Tunis","Tunisia",23,"MF",15,1,0,0,1.22,0.0,6.08,0.0,0.0,0.0
+451,"Ferjani Sassi","Al-Duhail","Tunisia",30,"MF",13,2,0,0,1.0,1.96,3.91,0.0,0.0,0.0
+452,"Taha Yassine Khenissi","Kuwait SC","Tunisia",31,"FW",11,2,0,0,0.0,0.0,0.0,3.33,0.0,0.0
+453,"Ghailene Chaalali","Esperance de Tunis","Tunisia",28,"MF",18,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+454,"Hannibal Mejbri","Manchester United","Tunisia",20,"MF",8,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+455,"Luis Chavez","Pachuca","Mexico ",27,"MF",24,3,1,0,1.33,0.0,0.33,7.0,0.0,0.0
+456,"Jesus Gallardo","Monterrey","Mexico ",28,"DF",23,3,0,0,1.33,0.33,3.0,5.0,0.0,0.0
+457,"Cesar Montes","Monterrey","Mexico ",25,"DF",3,3,0,1,0.67,0.67,2.0,7.33,0.0,0.0
+458,"Hector Moreno","Monterrey","Mexico ",35,"DF",15,3,0,0,0.0,0.33,0.67,5.0,0.0,0.0
+459,"Guillermo Ochoa","America","Mexico ",37,"GK",13,3,0,0,0.0,0.0,0.0,0.0,0.5,0.33
+460,"Hirving Lozano","Napoli","Mexico ",27,"FW",22,3,0,0,2.49,0.0,2.49,8.54,0.0,0.0
+461,"Alexis Vega","Guadalajara","Mexico ",25,"MF",10,3,0,0,1.38,0.46,0.0,4.13,0.0,0.0
+462,"Edson Alvarez","Ajax","Mexico ",25,"MF",4,2,0,0,0.51,2.05,1.02,13.29,0.0,0.0
+463,"Jorge Sanchez","Ajax","Mexico ",25,"DF",19,2,0,0,2.56,1.02,0.51,4.7,0.0,0.0
+464,"Hector Herrera","Houston Dynamo","Mexico ",32,"MF",16,3,0,0,0.0,0.33,0.67,5.0,0.0,0.0
+465,"Henry Martin","America","Mexico ",30,"FW",20,2,1,0,0.0,1.82,0.61,6.08,0.0,0.0
+466,"Nestor Araujo","America","Mexico ",31,"DF",2,1,0,0,0.0,3.0,1.0,1.0,0.0,0.0
+467,"Orbelin Pineda","AEK Athens","Mexico ",26,"MF",17,1,0,0,1.17,0.0,4.68,9.35,0.0,0.0
+468,"Kevin Alvarez","Pachuca","Mexico ",24,"DF",26,2,0,0,3.86,1.29,1.29,3.86,0.0,0.0
+469,"Andres Guardado","Real Betis","Mexico ",36,"MF",18,1,0,0,0.0,0.0,8.57,8.57,0.0,0.0
+470,"Uriel Antuna","Cruz Azul","Mexico ",25,"MF",21,3,0,0,0.0,0.0,4.86,6.08,0.0,0.0
+471,"Raul Jimenez","Wolves","Mexico ",31,"FW",9,3,0,0,0.0,1.61,0.0,11.25,0.0,0.0
+472,"Erick Gutierrez","PSV","Mexico ",27,"MF",14,1,0,0,0.0,3.75,1.88,0.0,0.0,0.0
+473,"Carlos Rodriguez","Cruz Azul","Mexico ",26,"MF",8,2,0,0,2.0,0.0,0.0,8.44,0.0,0.0
+474,"Roberto Alvarado","Guadalajara","Mexico ",24,"MF",25,1,0,0,1.0,0.0,0.0,10.58,0.0,0.0
+475,"Rogelio Funes Mori","Monterrey","Mexico ",31,"FW",11,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+476,"Toby Alderweireld","Antwerp","Belgium",33,"DF",2,3,0,1,0.0,0.0,1.33,2.0,0.0,0.0
+477,"Timothy Castagne","Leicester","Belgium",27,"DF",21,3,0,0,0.33,0.67,2.0,4.33,0.0,0.0
+478,"Thibaut Courtois","Real Madrid","Belgium",30,"GK",1,3,0,0,0.0,0.0,0.0,0.0,0.82,0.67
+479,"Kevin De Bruyne","Manchester City","Belgium",31,"MF",7,3,0,0,1.67,0.0,0.33,4.33,0.0,0.0
+480,"Jan Vertonghen","Anderlecht","Belgium",35,"DF",5,3,0,0,0.0,1.67,0.0,9.34,0.0,0.0
+481,"Axel Witsel","Atletico Madrid","Belgium",34,"MF",6,3,0,0,0.0,1.33,1.33,5.66,0.0,0.0
+482,"Thomas Meunier","Borussia Dortmund","Belgium",31,"DF",15,3,0,0,0.85,0.85,2.55,5.1,0.0,0.0
+483,"Leander Dendoncker","Aston Villa","Belgium",27,"MF",19,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+484,"Michy Batshuayi","Fenerbahce","Belgium",29,"FW",23,2,1,0,1.76,0.0,0.59,3.04,0.0,0.0
+485,"Eden Hazard","Real Madrid","Belgium",32,"FW",10,2,0,0,5.04,0.72,0.0,9.36,0.0,0.0
+486,"Yannick Carrasco","Atletico Madrid","Belgium",29,"MF",11,2,0,0,2.29,0.76,3.81,6.1,0.0,0.0
+487,"Thorgan Hazard","Borussia Dortmund","Belgium",29,"MF",16,2,0,0,1.7,0.0,2.55,4.25,0.0,0.0
+489,"Leandro Trossard","Brighton","Belgium",28,"FW",17,3,0,0,3.53,0.0,0.0,1.76,0.0,0.0
+490,"Youri Tielemans","Leicester City","Belgium",25,"MF",8,3,0,0,0.0,1.91,2.87,7.65,0.0,0.0
+491,"Dries Mertens","Galatasaray","Belgium",35,"FW",14,2,0,0,1.18,0.0,2.37,3.55,0.0,0.0
+492,"Romelu Lukaku","Inter","Belgium",29,"FW",9,2,0,0,1.7,0.0,0.0,5.1,0.0,0.0
+493,"Jeremy Doku","Rennes","Belgium",20,"FW",25,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+494,"Charles De Ketelaere","AC Milan","Belgium",21,"MF",22,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+495,"Lois Openda","Lens","Belgium",22,"FW",24,1,0,0,1.0,0.0,7.5,0.0,0.0,0.0
+496,"Lawrence Ati Zigi","St. Gellen","Ghana",26,"GK",1,3,0,0,0.0,0.0,0.0,0.0,0.59,0.0
+497,"Thomas Partey","Arsenal","Ghana",29,"MF",5,3,0,0,0.67,0.0,3.0,8.33,0.0,0.0
+498,"Mohammed Salisu","Southampton","Ghana",23,"DF",4,3,1,0,0.0,1.0,0.67,6.34,0.0,0.0
+499,"Inaki Williams","Athletic Club","Ghana",28,"FW",19,3,0,1,36.0,0.0,1.07,3.57,0.0,0.0
+500,"Daniel Amartey","Leicester City","Ghana",28,"DF",18,3,0,0,0.33,1.0,2.0,6.0,0.0,0.0
+501,"Salis Abdul Samed","Lens","Ghana",22,"MF",21,3,0,0,1.07,1.43,0.71,2.5,0.0,0.0
+502,"Mohammed Kudus","Ajax","Ghana",22,"MF",20,3,2,0,4.34,0.36,1.81,6.51,0.0,0.0
+503,"Andre Ayew","Al-Sadd","Ghana",33,"MF",10,3,1,0,0.45,0.0,1.79,7.61,0.0,0.0
+504,"Abdul-Rahman Baba","Reading","Ghana",28,"DF",17,3,0,0,1.98,0.49,2.47,6.93,0.0,0.0
+505,"Alidu Seidu","Clermont","Ghana",22,"DF",26,2,0,0,2.31,0.0,3.46,9.81,0.0,0.0
+506,"Jordan Ayew","Crystal Palace","Ghana",31,"FW",9,3,0,1,2.63,0.66,1.97,5.91,0.0,0.0
+507,"Tariq Lamptey","Brighton","Ghana",22,"DF",2,2,0,0,1.76,0.88,3.53,5.29,0.0,0.0
+508,"Alexander Djiku","Strasbourg","Ghana",28,"DF",23,2,0,0,0.0,0.93,0.93,6.5,0.0,0.0
+509,"Gideon Mensah","Auxerre","Ghana",24,"DF",14,1,0,0,0.0,2.05,1.02,9.2,0.0,0.0
+510,"Osman Bukari","Red Star Belgrade","Ghana",24,"FW",11,2,1,0,2.0,0.0,1.55,3.1,0.0,0.0
+511,"Kamaldeen Sulemana","Rennes","Ghana",20,"FW",22,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+512,"Daniel Kofi Kyereh","SC Freiburg","Ghana",26,"MF",8,3,0,0,2.0,0.0,6.0,0.0,0.0,0.0
+513,"Antoine Semenyo","Bristol City","Ghana",23,"FW",25,2,0,0,0.0,0.0,0.0,10.0,0.0,0.0
+514,"Denis Odoi","Club Brugge","Ghana",34,"DF",3,1,0,0,0.58,0.0,7.5,7.5,0.0,0.0
+516,"Saud Abdulhamid","Al-Hilal","Saudi Arabia",23,"DF",12,3,0,0,1.0,0.33,1.67,6.66,0.0,0.0
+517,"Salem Al-Dawsari","Al-Hilal","Saudi Arabia",31,"MF",10,3,2,0,2.33,0.33,1.67,3.66,0.0,0.0
+518,"Mohamed Kanno","Al-Hilal","Saudi Arabia",28,"MF",23,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+519,"Mohammed Al-Owais","Al-Hilal","Saudi Arabia",31,"GK",21,3,0,0,0.0,0.0,0.0,0.0,0.74,0.0
+520,"Firas Al-Buraikan","Al-Fateh","Saudi Arabia",22,"FW",9,3,0,1,1.67,0.67,1.0,6.36,0.0,0.0
+521,"Saleh Al-Shehri","Al-Hilal","Saudi Arabia",29,"FW",11,3,1,0,0.8,0.0,1.2,8.0,0.0,0.0
+522,"Ali Al-Bulaihi","Al-Hilal","Saudi Arabia",33,"DF",5,3,0,0,0.0,1.24,1.66,4.56,0.0,0.0
+523,"Abdulelah Al-Amri","Al-Nassr","Saudi Arabia",26,"DF",4,3,0,0,0.0,1.98,0.49,0.0,0.0,0.0
+524,"Hassan Tambakti","Al-Shabab","Saudi Arabia",24,"DF",17,2,0,0,0.0,1.0,2.0,5.5,0.0,0.0
+525,"Abdulellah Al-Malki","Al-Hilal","Saudi Arabia",28,"MF",8,2,0,0,0.0,1.54,2.06,4.11,0.0,0.0
+526,"Sultan Al-Ghanam","Al-Nassr","Saudi Arabia",28,"DF",2,3,0,0,1.44,1.44,0.0,0.0,0.0,0.0
+527,"Yasser Al-Shahrani","Al-Hilal","Saudi Arabia",30,"DF",13,1,0,0,0.0,6.0,3.0,3.0,0.0,0.0
+528,"Mohammed Al-Breik","Al-Hilal","Saudi Arabia",30,"DF",6,2,0,0,0.0,0.0,1.38,5.53,0.0,0.0
+529,"Ali Al-Hassan","Al-Nassr","Saudi Arabia",25,"MF",15,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+530,"Sami Al-Najei","Al-Nassr","Saudi Arabia",26,"MF",16,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+531,"Salman Al-Faraj","Al-Hilal","Saudi Arabia",33,"MF",7,1,0,0,0.0,0.0,2.0,2.0,0.0,0.0
+532,"Nawaf Alabid","Al-Shabab","Saudi Arabia",33,"MF",18,2,0,0,0.66,2.09,0.0,6.28,0.0,0.0
+534,"Abdullah Madu","Al-Nassr","Saudi Arabia",29,"DF",3,1,0,0,0.0,2.05,2.05,6.14,0.0,0.0
+535,"Abdulrahman Al-Aboud","Al-Ittihad","Saudi Arabia",27,"MF",20,2,0,0,0.66,0.0,0.0,0.0,0.0,0.0
+536,"Nasser Al-Dawsari","Al-Hilal","Saudi Arabia",24,"MF",24,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+537,"Nawaf Al-Aqidi","Al-Nassr","Saudi Arabia",22,"GK",22,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+538,"Haitham Asiri","Al-Ahli","Saudi Arabia",21,"FW",25,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+539,"Majid Hosseini","Kayserispor","Iran",26,"DF",19,3,0,0,0.0,2.0,2.0,6.33,0.0,0.0
+540,"Morteza Pouraliganji","Persepolis","Iran",30,"DF",8,3,0,0,0.0,2.0,0.67,7.66,0.0,0.0
+541,"Mehdi Taremi","Porto","Iran",30,"FW",9,3,2,1,1.67,0.67,1.33,6.34,0.0,0.0
+542,"Ehsan Hajsafi","AEK Athens","Iran",32,"DF",3,3,0,0,0.76,0.76,3.03,5.68,0.0,0.0
+543,"Ahmad Nourollahi","Shabab Al-Ahli","Iran",30,"MF",21,3,0,0,0.8,2.4,2.0,3.2,0.0,0.0
+544,"Milad Mohammadi","AEK Athens","Iran",29,"DF",5,3,0,0,0.45,0.45,4.55,7.72,0.0,0.0
+545,"Saeid Ezatolahi","Vejle","Iran",26,"MF",6,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+546,"Ali Gholizadeh","Charleroi","Iran",26,"MF",17,3,0,1,3.18,1.36,0.0,1.82,0.0,0.0
+547,"Ramin Rezaeian","Sepahan","Iran",32,"DF",23,2,1,0,0.5,1.5,3.5,6.5,0.0,0.0
+548,"Sardar Azmoun","Bayer Leverkusen","Iran",28,"FW",20,3,0,0,0.71,0.0,0.0,6.37,0.0,0.0
+549,"Alireza Beiranvand","Persepolis","Iran",30,"GK",1,2,0,0,0.0,0.0,0.0,0.0,0.8,0.0
+550,"Hossein Hosseini","Esteghlal","Iran",30,"GK",24,2,0,0,0.0,0.0,0.0,0.0,0.5,0.5
+551,"Ali Karimi","Kayserispor","Iran",28,"MF",18,3,0,0,0.0,2.76,2.76,9.19,0.0,0.0
+552,"Sadegh Moharrami","Dinamo Zagreb","Iran",26,"DF",2,1,0,0,0.0,1.0,1.0,3.0,0.0,0.0
+553,"Alireza Jahanbakhsh","Feyenoord","Iran",29,"MF",7,2,0,0,1.53,1.53,1.53,3.05,0.0,0.0
+554,"Rouzbeh Cheshmi","Esteghlal","Iran",29,"MF",15,2,1,0,0.0,3.05,0.0,3.06,0.0,0.0
+555,"Mehdi Torabi","Persepolis","Iran",28,"MF",16,3,0,0,3.05,3.05,1.53,3.05,0.0,0.0
+556,"Saman Ghoddos","Brentford","Iran",29,"MF",14,1,0,0,0.0,0.0,2.05,2.05,0.0,0.0
+557,"Hossein Kanaani","Al Ahli","Iran",28,"DF",13,1,0,0,0.0,2.05,0.0,2.05,0.0,0.0
+558,"Karim Ansarifard","Omonia","Iran",32,"FW",10,2,0,0,0.0,2.57,0.0,0.0,0.0,0.0
+559,"Abolfazi Jalali","Esteghlal","Iran",24,"DF",25,1,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+560,"Oscar Duarte","Al-Wehda","Costa Rica",33,"DF",6,3,0,0,0.0,2.33,1.33,2.67,0.0,0.0
+561,"Keylor Navas","PSG","Costa Rica",36,"GK",1,3,0,0,0.0,0.0,0.0,0.0,0.5,0.33
+562,"Joel Campbell","Leon","Costa Rica",30,"FW",12,3,0,0,3.0,0.0,3.0,12.0,0.0,0.0
+563,"Yeltsin Tejeda","Herediano","Costa Rica",30,"MF",17,3,1,1,33.0,0.33,1.33,4.66,0.0,0.0
+564,"Bryan Oviedo","Real Salt Lake","Costa Rica",32,"DF",8,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+565,"Keysher Fuller","Herediano","Costa Rica",28,"DF",4,3,1,0,0.71,0.71,1.77,3.54,0.0,0.0
+566,"Celso Borges","Alajuelense","Costa Rica",34,"MF",5,3,0,0,0.72,1.79,1.79,6.81,0.0,0.0
+567,"Kendall Waston","Aprissa","Costa Rica",35,"DF",19,3,0,0,0.0,2.01,2.81,6.02,0.0,0.0
+569,"Anthony Contreras","Herediano","Costa Rica",23,"FW",7,3,0,0,0.0,0.71,3.57,11.43,0.0,0.0
+570,"Jewison Bennette","Sunderland","Costa Rica",18,"MF",9,3,0,0,3.53,0.0,0.0,2.65,0.0,0.0
+571,"Brandon Aguilera","Nottingham Forest","Costa Rica",19,"MF",20,3,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+572,"Juan Pablo Vargas","Millonarios","Costa Rica",27,"DF",3,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+573,"Johan Venegas","Alajuelense","Costa Rica",34,"FW",11,1,0,0,1.22,0.0,0.0,1.22,0.0,0.0
+574,"Gerson Torres","Herediano","Costa Rica",25,"MF",13,1,0,0,0.0,0.0,0.0,11.08,0.0,0.0
+575,"Carlos Martinez","San Carlos","Costa Rica",23,"DF",16,1,0,0,0.0,1.96,1.96,5.87,0.0,0.0
+576,"Youstin Salas","Saprissa","Costa Rica",26,"MF",14,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+577,"Bryan Ruiz","Alajuelense","Costa Rica",37,"MF",10,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+578,"Alvaro Zamora","Saprissa","Costa Rica",20,"MF",26,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+579,"Ronald Matarrita","Cincinnati","Costa Rica",28,"DF",22,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+580,"Daniel Chacon","Colorado Rapids","Costa Rica",21,"MF",2,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+581,"Roan Wilson","Municipal Grecia","Costa Rica",20,"MF",24,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+583,"Andreas Christensen","Barcelona","Denmark",26,"DF",6,3,1,0,0.0,1.33,1.67,6.0,0.0,0.0
+584,"Christian Eriksen","Manchester United","Denmark",30,"MF",10,3,0,0,1.33,0.33,0.33,0.67,0.0,0.0
+585,"Pierre-Emile Hojbjerg","Tottenham","Denmark",27,"MF",23,3,0,0,0.67,1.33,1.33,2.66,0.0,0.0
+586,"Kasper Schmeichel","Nice","Denmark",36,"GK",1,3,0,0,0.0,0.0,0.0,0.0,0.73,0.33
+587,"Joakim Maehle","Atalanta","Denmark",25,"DF",5,3,0,0,3.25,0.72,3.25,5.42,0.0,0.0
+588,"Rasmus Kristensen","Leeds United","Denmark",25,"DF",13,3,0,0,1.59,0.8,3.58,6.77,0.0,0.0
+589,"Jesper Lindstrom","Eintracht Frankfurt","Denmark",22,"FW",25,3,0,0,5.4,0.0,0.45,4.95,0.0,0.0
+590,"Andreas Skov Olsen","Club Brugge","Denmark",23,"FW",11,2,0,0,1.34,0.0,0.0,2.01,0.0,0.0
+591,"Mikkel Damsgaard","Brentford","Denmark",22,"FW",14,3,0,0,0.6,0.6,2.42,3.02,0.0,0.0
+592,"Kasper Dolberg","Sevilla","Denmark",25,"FW",12,3,0,0,1.59,0.0,0.8,3.19,0.0,0.0
+593,"Martin Braithwaite","Espanyol","Denmark",31,"FW",9,2,0,0,1.75,0.0,0.0,2.62,0.0,0.0
+594,"Andreas Cornelius","Copenhagen","Denmark",29,"FW",21,3,0,0,0.98,0.0,0.0,0.0,0.0,0.0
+595,"Victor Nelsson","Galatasaray","Denmark",24,"DF",3,1,0,0,0.0,2.0,0.0,10.0,0.0,0.0
+596,"Mathias Jensen","Brentford","Denmark",27,"MF",7,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+597,"Simon Kjaer","AC Milan","Denmark",33,"DF",4,1,0,0,0.0,6.92,0.0,8.3,0.0,0.0
+598,"Thomas Delaney","Sevilla","Denmark",31,"DF",8,1,0,0,0.0,0.0,0.0,8.0,0.0,0.0
+599,"Alexander Bah","Benfica","Denmark",25,"DF",26,2,0,0,0.5,4.06,0.0,0.0,0.0,0.0
+600,"Robert Skov","Hoffenheim ","Denmark",26,"FW",24,1,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+601,"Christian Norgaard","Brentford","Denmark",28,"MF",15,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+602,"Nikola Milenkovic","Fiorentina","Serbia",25,"DF",4,3,0,0,0.0,1.67,3.33,8.0,0.0,0.0
+603,"Vanja Milinkovic-Savic","Torino","Serbia",25,"GK",23,3,0,0,0.0,0.0,0.0,0.0,0.65,0.0
+604,"Aleksandr Mitrovic","Fulham","Serbia",28,"FW",9,3,2,0,0.34,0.0,0.34,4.45,0.0,0.0
+605,"Dusan Tadic","Ajax","Serbia",34,"FW",10,3,0,2,2.09,0.35,1.4,3.84,0.0,0.0
+606,"Sasa Lukic","Torino","Serbia",26,"MF",16,3,0,0,0.37,0.37,0.73,2.3,0.0,0.0
+607,"Strahinja Pavlovic","Salzburg","Serbia",21,"DF",2,3,1,0,0.38,0.38,3.05,14.11,0.0,0.0
+609,"Milos Veljkovic","Werder Bremen","Serbia",27,"DF",5,3,0,0,0.0,0.0,1.21,2.83,0.0,0.0
+610,"Andrija Zivkovic","PAOK","Serbia",26,"MF",14,3,0,2,0.42,1.27,2.11,5.5,0.0,0.0
+611,"Filip Kostic","Juventus","Serbia",30,"MF",17,2,0,0,1.0,0.0,3.0,3.5,0.0,0.0
+612,"Nemanja Maksimovic","Getafe","Serbia",28,"MF",6,3,0,0,0.0,2.27,2.27,3.03,0.0,0.0
+613,"Nemanja Gudelj","Sevilla","Serbia",31,"MF",8,2,0,0,0.0,0.98,1.96,3.91,0.0,0.0
+614,"Dusan Vlahovic","Juventus","Serbia",23,"FW",18,2,1,0,1.14,0.0,1.14,7.98,0.0,0.0
+615,"Filip Mladenovic","Legia Warsaw","Serbia",31,"DF",25,1,0,0,2.73,0.0,0.0,2.72,0.0,0.0
+616,"Nemanja Radonjic","Torino","Serbia",26,"FW",7,3,0,0,3.16,0.0,0.0,3.16,0.0,0.0
+618,"Stefan Mitrovic","Getafe","Serbia",32,"DF",13,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+619,"Ivan Ilic","Verona","Serbia",21,"MF",24,1,0,0,0.0,2.73,0.0,5.46,0.0,0.0
+620,"Darko Lazovic","Verona","Serbia",32,"MF",22,1,0,0,0.0,0.0,0.0,3.75,0.0,0.0
+621,"Filip Duricic","Sampdoria","Serbia",31,"FW",21,2,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+622,"Srdan Babic","Almeria","Serbia",26,"DF",16,1,0,0,0.0,0.0,7.5,7.5,0.0,0.0
+623,"Marko Grujic","Porto","Serbia",26,"MF",26,1,0,0,1.0,0.0,7.5,0.0,0.0,0.0
+624,"Chris Mepham","Bournemouth","Wales",25,"DF",5,3,0,0,0.0,0.33,2.33,7.33,0.0,0.0
+625,"Joe Rodon","Rennes","Wales",25,"DF",6,3,0,0,0.0,1.33,0.67,2.0,0.0,0.0
+626,"Aaron Ramsey","Nice","Wales",32,"MF",10,3,0,0,2.36,0.0,0.67,2.36,0.0,0.0
+627,"Ethan Ampadu","Spezia","Wales",22,"DF",15,3,0,0,0.7,1.4,1.4,4.9,0.0,0.0
+628,"Ben Davies","Tottenham","Wales",29,"DF",4,3,0,0,1.13,0.38,1.51,8.67,0.0,0.0
+629,"Gareth Bale","Los Angeles FC","Wales",33,"FW",11,3,1,0,0.8,0.4,0.4,5.97,0.0,0.0
+630,"Neco Williams","Nottingham Forest","Wales",21,"DF",3,3,0,0,1.32,1.76,2.2,6.59,0.0,0.0
+631,"Kieffer Moore","Bournemouth","Wales",30,"FW",13,3,0,0,0.0,0.8,0.4,10.85,0.0,0.0
+632,"Connor Roberts","Burnley","Wales",27,"DF",14,3,0,0,0.0,0.45,1.34,2.69,0.0,0.0
+633,"Wayne Hennessey","Nottingham Forest","Wales",36,"GK",1,2,0,0,0.0,0.0,0.0,0.0,0.83,0.0
+634,"Harry Wilson","Fulham","Wales",25,"MF",8,3,0,0,0.0,0.56,2.25,4.5,0.0,0.0
+635,"Dan James","Fulham","Wales",25,"FW",20,3,0,0,0.58,0.58,0.58,1.73,0.0,0.0
+636,"Joe Allen","Swansea City","Wales",22,"MF",7,2,0,0,0.0,0.96,0.96,2.87,0.0,0.0
+637,"Danny Ward","Leicester City","Wales",29,"GK",12,2,0,0,0.0,0.0,0.0,0.0,0.57,0.0
+638,"Brennan Johnson","Nottingham Forest","Wales",21,"FW",9,3,0,0,4.0,0.0,0.0,0.0,0.0,0.0
+639,"Joe Morrell","Portsmouth","Wales",26,"MF",16,2,0,0,0.0,2.9,0.0,0.0,0.0,0.0
+640,"Rubin Colwill","Cardiff City","Wales",22,"FW",25,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+641,"Sorba Thomas","Huddersfield Town","Wales",24,"MF",22,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+642,"Milan Borjan","Red Star Belgrade","Canada",35,"GK",18,3,0,0,0.0,0.0,0.0,0.0,0.53,0.0
+643,"Alphonso Davies","Bayern Munich","Canada",22,"FW",19,3,1,0,6.0,1.0,0.67,6.67,0.0,0.0
+644,"Alistair Johnson","Celtic","Canada",24,"DF",2,3,0,0,0.33,0.67,1.33,4.67,0.0,0.0
+645,"Kamal Miller","Montreal Impact","Canada",25,"DF",4,3,0,0,0.67,1.0,2.0,7.33,0.0,0.0
+646,"Steven Vitoria","GD Chaves","Canada",36,"DF",5,3,0,0,0.0,0.0,1.33,5.66,0.0,0.0
+647,"Tajon Buchanan","Club Brugge","Canada",24,"FW",11,3,0,1,6.21,1.03,0.34,5.17,0.0,0.0
+648,"Jonathan David","Lille","Canada",23,"FW",20,3,0,0,1.41,0.0,0.47,1.88,0.0,0.0
+649,"Junior Hoilett","Reading","Canada",32,"FW",10,3,0,0,1.33,0.56,4.44,8.33,0.0,0.0
+650,"Richie Laryea","Toronto","Canada",28,"DF",22,3,0,0,2.0,0.0,1.68,3.91,0.0,0.0
+651,"Atiba Hutchinson","Besiktas","Canada",40,"MF",13,3,0,0,0.56,0.56,2.25,9.56,0.0,0.0
+652,"Cyle Larin","Club Brugge","Canada",27,"FW",17,3,0,0,1.33,0.0,0.0,1.95,0.0,0.0
+653,"Stephen Eustaquio","Porto","Canada",26,"MF",7,2,0,0,0.71,1.42,2.83,5.67,0.0,0.0
+654,"Jonathan Osorio","Toronto","Canada",30,"MF",21,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+655,"Sam Adekugbe","Hatayspor","Canada",28,"DF",3,3,0,0,0.95,0.95,0.0,4.73,0.0,0.0
+656,"Mark-Anthony Kaye","Toronto","Canada",28,"MF",14,1,0,0,0.0,0.0,3.0,4.5,0.0,0.0
+657,"Ismael Kone","Watford","Canada",20,"MF",15,3,0,0,0.0,0.0,0.0,0.86,0.0,0.0
+658,"Lucas Cavallini","Vancouver Whitecaps","Canada",30,"FW",9,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+659,"David Wotherspoon","St. Johnstone","Canada",33,"MF",24,1,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+660,"Liam Millar","Basel","Canada",23,"FW",23,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+661,"Akram Afif","Al-Sadd","Qatar",26,"FW",11,3,0,0,1.67,0.0,0.0,3.33,0.0,0.0
+662,"Abdelkarim Hassan","Al-Sadd","Qatar",29,"DF",3,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+663,"Boualem Khoukhi","Al-Sadd","Qatar",32,"DF",16,3,0,0,0.33,1.0,0.67,2.33,0.0,0.0
+664,"Homam Ahmed","Al-Gharafa","Qatar",23,"DF",14,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+665,"Pedro Miguel","Al-Sadd","Qatar",32,"DF",2,3,0,0,1.03,2.74,2.05,6.51,0.0,0.0
+666,"Almoez Ali","Al-Duhail","Qatar",26,"FW",19,3,0,0,1.19,0.4,0.4,3.19,0.0,0.0
+667,"Hassan Al-Haydos","Al-Sadd","Qatar",32,"FW",10,3,0,0,2.14,0.86,1.29,1.71,0.0,0.0
+668,"Abdulaziz Hatem","Al-Rayyan","Qatar",32,"MF",6,3,0,0,0.0,0.46,0.46,1.84,0.0,0.0
+669,"Karim Boudiaf","Al-Duhail","Qatar",32,"MF",12,3,0,0,1.95,0.0,0.97,8.76,0.0,0.0
+670,"Meshaal Barsham","Al-Sadd","Qatar",24,"GK",22,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+671,"Ismaeel Mohammada","Al-Duhail","Qatar",32,"FW",17,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+672,"Assim Madibo","Al-Duhail","Qatar",26,"MF",23,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+675,"Mohammed Muntari","Al-Duhail","Qatar",29,"FW",9,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+676,"Mohammed Waad","Al-Sadd","Qatar",23,"MF",4,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+677,"Ali Assadalla","Al-Sadd","Qatar",30,"MF",8,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+678,"Tarek Salman","Al-Sadd","Qatar",25,"DF",5,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+679,"Ahmed Alaaeldin","Al-Gharafa","Qatar",30,"FW",7,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
